@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 /**
- * ADT
+ * ADT  ที่เก็บ Integer แบบไม่ซ้ำกันและเรียงลำดับ
  */
 
 public class IntegerSet  {
